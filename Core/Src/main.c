@@ -100,7 +100,6 @@ int main(void)
   MX_FMC_Init();
   MX_TIM1_Init();
   MX_USART1_UART_Init();
-
   /* USER CODE BEGIN 2 */
 
   // Testing the UART
@@ -144,7 +143,6 @@ int main(void)
   }
   /* USER CODE END 3 */
 }
-
 
 /**
   * @brief System Clock Configuration
